@@ -66,4 +66,4 @@ streamlit run upd.py
 
 ---
 
-© 2025 by Altynshash, for AI Convergence Graduate Program @ Chonnam National University.
+© 2025 by Daniyarova Altynshash, for AI Convergence Graduate Program | AI Project course @ Chonnam National University.
